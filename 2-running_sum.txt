@@ -1,0 +1,10 @@
+This program will check through a list of a users input and adds the values but stops adding values when it encounters a negative value
+
+#We will create an input system for the user
+user_input=int(input("Enter numbers \n")
+
+#We will create a list to store user inputs
+stores =[]
+stores.append(user_input)
+
+#We will iterate through the list of numbers and stop adding numbers if it encounters any negative value

@@ -1,0 +1,6 @@
+This program will sort through a list of 3 numbers
+
+#We will create a list of 3 numbers
+list_num =[4,3,6]
+#We will sort the list using the sorted sttribute
+soreted_num = sorted(list_num)

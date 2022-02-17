@@ -1,0 +1,9 @@
+This program will allow the user to input numbers, turn the numbers to a square and add them.
+
+#We will get the input of numbers from the user
+user_input  = int(input('Enter numbers \n'))
+store_num=[]
+#We will turn the input of numbers to a square and store it in store_num
+for i in user_input:
+print(store.append(i**2))
+#We will get the sum of values in the store
